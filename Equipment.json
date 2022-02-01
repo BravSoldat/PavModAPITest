@@ -14,5 +14,5 @@
 	],
 	"SpawnCash": 750,
 	"BuyingEnabled": true,
-  "TestBool": false
+  	"TestBool": false
 }
